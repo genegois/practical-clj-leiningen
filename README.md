@@ -1,5 +1,5 @@
 # PRACTICAL CLOJURE SUPER MINI DEMO
-ya ini mah intinya standard backend webapp lah with really simple frontend.
+ya ini mah intinya standard backend webapp with really simple frontend lah.
 Stack with ring and reitit route, db postgresql and mongo.
 
 ## Terus cara ngetesnya? 
