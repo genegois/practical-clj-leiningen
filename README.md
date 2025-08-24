@@ -23,7 +23,7 @@ CREATE TABLE tokens (
 );
 
 ```
-2. Download tuh kode , terus jalanin kodenya di dev/user.clj. Nah yowes tinggal jalanin repl, reload, terus jalanin (start)
+2. Download tuh kode, ganti dulu password db di src/practical_clj/db/postgre.clj, sesuain ae ama pw postgresql lo, terus jalanin kodenya di dev/user.clj. Nah yowes tinggal jalanin repl, reload, terus jalanin (start)
    
    a. Kalo lo mau eksperimen di backend-nya tinggal eksperimen di situ
    
